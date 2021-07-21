@@ -1,0 +1,6 @@
+C:\Users\host\Desktop\RobloxHwidTool\bin\Debug\RobloxHwidTool.exe
+C:\Users\host\Desktop\RobloxHwidTool\bin\Debug\RobloxHwidTool.pdb
+C:\Users\host\Desktop\RobloxHwidTool\obj\Debug\RobloxHwidTool.csproj.AssemblyReference.cache
+C:\Users\host\Desktop\RobloxHwidTool\obj\Debug\RobloxHwidTool.csproj.CoreCompileInputs.cache
+C:\Users\host\Desktop\RobloxHwidTool\obj\Debug\RobloxHwidTool.exe
+C:\Users\host\Desktop\RobloxHwidTool\obj\Debug\RobloxHwidTool.pdb
